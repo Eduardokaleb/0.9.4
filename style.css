@@ -1,0 +1,64 @@
+svg{
+    width: 15px;
+    height: 10px;
+    
+    
+}
+
+.titulo button {
+    position: absolute;
+    top: -40px;
+    right: 10px;
+    border:none;
+    
+    
+}
+
+.titulo {
+    position: relative;
+    border-bottom: dotted 1px;
+   
+    
+}
+
+
+
+ul{
+    list-style: none;
+}
+li div{
+    width: fit-content;
+    display: flex;
+    
+}
+
+li.left div{
+  background-color: gray;
+ border-radius: 10px;
+  
+}
+li.right div{
+    background-color:green;
+    margin-left: auto;
+    border-radius: 10px;
+    
+
+}
+  
+
+
+
+svg{
+    margin-top: 20px;
+}
+
+
+h1 {
+color: white;
+
+
+}
+body{
+background-color: black;
+
+}
